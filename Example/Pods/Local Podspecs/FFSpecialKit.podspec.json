@@ -1,0 +1,22 @@
+{
+  "name": "FFSpecialKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFSpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaochuanxu/FFSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaochuanxu": "xuxiaochuan@zbj.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaochuanxu/FFSpecialKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFSpecialKit/Classes/**/*"
+}

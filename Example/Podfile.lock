@@ -1,0 +1,16 @@
+PODS:
+  - FFSpecialKit (0.1.0)
+
+DEPENDENCIES:
+  - FFSpecialKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFSpecialKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FFSpecialKit: ab40fe51903bef9c6a709dcc3e5821908f4c3c04
+
+PODFILE CHECKSUM: 90d38f0cbdd07018d60ee7c07f5d5594aee78646
+
+COCOAPODS: 1.4.0
