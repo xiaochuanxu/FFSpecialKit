@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4C6EDBDE52E3BC1EFE1C2835230804D5'
+               BlueprintIdentifier = '245D4EE8040846172B37CD268360776C'
                BlueprintName = 'FFSpecialKit'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'FFSpecialKit.framework'>

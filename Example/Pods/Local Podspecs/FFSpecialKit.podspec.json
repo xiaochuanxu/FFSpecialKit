@@ -1,6 +1,6 @@
 {
   "name": "FFSpecialKit",
-  "version": "1.1",
+  "version": "1.2",
   "summary": "A short description of FFSpecialKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaochuanxu/FFSpecialKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/xiaochuanxu/FFSpecialKit.git",
-    "tag": "1.1"
+    "tag": "1.2"
   },
   "platforms": {
     "ios": "8.0"
@@ -37,6 +37,9 @@
     ],
     "ReactiveCocoa": [
       "~> 2.5"
+    ],
+    "CTMediator": [
+
     ]
   }
 }

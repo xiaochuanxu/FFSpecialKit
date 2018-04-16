@@ -135,6 +135,7 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFAPIs/FFAPIs.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFCategoryKit/FFCategoryKit.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFSpecialKit/FFSpecialKit.framework"
@@ -148,6 +149,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFAPIs/FFAPIs.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFCategoryKit/FFCategoryKit.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FFSpecialKit/FFSpecialKit.framework"

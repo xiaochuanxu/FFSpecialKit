@@ -17,5 +17,9 @@
 #import <ReactiveCocoa/ReactiveCocoa.h>
 #import <Masonry/Masonry.h>
 #import <YYWebImage/YYWebImage.h>
+#import "FFSpecialListReformerKeys.h"
+#import "FFAuthorListReformerKeys.h"
+#import "FFReformProtocol.h"
+#import "FFAPIs-umbrella.h"
 
 #endif /* FFSpecialKit_h */

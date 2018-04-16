@@ -24,6 +24,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+## CTMediator
+
+MIT
+
+
 ## FFAPIs
 
 Copyright (c) 2018 xiaochuanxu <xuxiaochuan@zbj.com>
